@@ -2,7 +2,6 @@
 
 switch (state) {
 	case "move":
-	show_debug_message("move state");
 	#region Move State
 		#region Horizontal Movement
 		
