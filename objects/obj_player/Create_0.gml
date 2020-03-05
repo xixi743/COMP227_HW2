@@ -10,7 +10,7 @@ input = instance_create_layer(0, 0, "Instances", obj_input);
 // Speed
 hspeed_ = 0; // horizontal speed
 vspeed_ = 0; // vertical speed
-max_hspeed_ = 3; // maximum horizontal speed
+max_hspeed_ = 4; // maximum horizontal speed
 max_vspeed_ = 10; // maximum vertical speed
 gravity_ = 0.4 //gravity
 
@@ -28,7 +28,7 @@ decel = 0.3;
 // jumping
 onground = false;
 groundbuffer = 3;
-jumpspeed = -8;
+jumpspeed = -10;
 jumpbuffer = 10;
 
 // image speeds

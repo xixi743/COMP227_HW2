@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Sets to "dash" every 3 seconds
 
 // wait for some seconds
 // change to dash state
