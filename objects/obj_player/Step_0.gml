@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Step Events
 
 switch (state) {
 	case "move":
