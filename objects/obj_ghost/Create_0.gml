@@ -11,7 +11,6 @@ max_hp = hp;
 // Alarms
 framerate = 60;
 seconds_to_wait = 3;
-seconds_to_wait2 = 5;
 alarm[0] = framerate*seconds_to_wait;
 alarm[1] = -1; // initializing alarm 1 with it off
 
