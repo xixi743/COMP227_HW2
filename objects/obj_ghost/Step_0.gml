@@ -6,6 +6,8 @@ switch(state) {
 		y -= vspeed_;
 		vspeed_ = lerp(vspeed_, 0, 0.05);
 		if vspeed_ <= 0 {
+			instance_create_layer(x+100, y-60, "Instances", obj_dialogue);
+			alarm[0] = framerate*seconds_to_wait;
 			state = "wait"
 		}
 	#endregion
