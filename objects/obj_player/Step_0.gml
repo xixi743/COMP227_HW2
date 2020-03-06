@@ -6,24 +6,24 @@ switch (state) {
 		#region Horizontal Movement
 		
 		if !input.key_right and !input.key_left {
-			sprite_index = spr_ninjafrog_idle;
+			sprite_index = spr_pinkman_idle;
 			image_speed = idle_speed;
 		}
 		
 		if input.key_left {
 			image_xscale = -2;
-			sprite_index = spr_ninjafrog_run;
+			sprite_index = spr_pinkman_run;
 			image_speed = run_speed;
 		}
 		
 		if input.key_right{
 			image_xscale = 2;
-			sprite_index = spr_ninjafrog_run;
+			sprite_index = spr_pinkman_run;
 			image_speed = run_speed;
 		}
 		
 		if input.key_jump or input.key_jump_held {
-			sprite_index = spr_ninjafrog_jump;
+			sprite_index = spr_pinkman_jump;
 			image_speed = 0;
 		}
 		

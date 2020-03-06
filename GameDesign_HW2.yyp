@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "07f9aa1c-ac71-41df-85aa-146c38e13d7f",
+            "Value": {
+                "id": "d8a08580-ef1b-4e53-9c50-d8b905494e43",
+                "resourcePath": "sprites\\spr_silverchest\\spr_silverchest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "091d097b-4c5b-4806-87b2-137f6f2e9a9b",
             "Value": {
                 "id": "bf7c8116-5b8b-40d2-877d-352d167670e0",
@@ -79,6 +87,22 @@
             }
         },
         {
+            "Key": "11fb316a-2804-48b6-b32c-fdf13870289e",
+            "Value": {
+                "id": "d7bca4a0-d73e-4ec2-b356-0bfa7a0087a9",
+                "resourcePath": "rooms\\rm_2\\rm_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "13d2a5b7-a379-455a-89d3-2d92d5062d64",
+            "Value": {
+                "id": "c0d13160-4478-412d-ad51-07b7987a1748",
+                "resourcePath": "sprites\\spr_key\\spr_key.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1d66376f-5c50-4d0a-a2d5-f0892d139780",
             "Value": {
                 "id": "57c9844f-7fdf-4e6a-8965-4334d196b82d",
@@ -87,11 +111,19 @@
             }
         },
         {
-            "Key": "237e225e-8a88-41a5-8140-44150061bbe1",
+            "Key": "28839665-47bb-4a4c-92d3-fdfa9546bbd2",
             "Value": {
-                "id": "7b1d890a-7f46-4945-9f63-4524fbcf86ef",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "id": "ca0ab241-f072-4725-8cff-ce8b9245e1fa",
+                "resourcePath": "rooms\\rm_start\\rm_start.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2c18e8be-9f31-4819-8774-26c98ac8651e",
+            "Value": {
+                "id": "6eccd5df-bd6c-41ca-979b-1e8b2fe1f71b",
+                "resourcePath": "sprites\\spr_goldchest\\spr_goldchest.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -295,6 +327,14 @@
             }
         },
         {
+            "Key": "7e9490eb-22e2-4ce3-95c2-5676fc08cdb3",
+            "Value": {
+                "id": "42f99c76-75a0-4c64-a474-044a6000ec6e",
+                "resourcePath": "sprites\\spr_spinning_coin_sparkle\\spr_spinning_coin_sparkle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "82fee88e-6fe8-4eba-af2c-54918db6a847",
             "Value": {
                 "id": "ce3c5596-1a94-44a5-95e7-22a14e74e83c",
@@ -330,7 +370,7 @@
             "Key": "8de34780-22ce-4f62-b5d9-c16079510d4e",
             "Value": {
                 "id": "169257ac-199c-4b52-8616-12367f281f2a",
-                "resourcePath": "rooms\/room1\/room1.yy",
+                "resourcePath": "rooms\\rm_1\\rm_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -471,6 +511,14 @@
             }
         },
         {
+            "Key": "d524dde6-02d8-4188-ba51-44d533cdba42",
+            "Value": {
+                "id": "3fe7bedb-a123-4d51-b09d-447511b223e6",
+                "resourcePath": "sprites\\spr_goldchest_withlock\\spr_goldchest_withlock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d7d6b171-3d1e-46df-a1c9-12e146c92379",
             "Value": {
                 "id": "ef3d3128-7618-4c08-98c1-387bc653d388",
@@ -511,6 +559,14 @@
             }
         },
         {
+            "Key": "e2f5698a-2bb4-4e19-8624-0d3e1d33cced",
+            "Value": {
+                "id": "074682b3-8d5a-48ca-8ebd-83a4a87473e0",
+                "resourcePath": "sprites\\spr_bonechest\\spr_bonechest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "68064282-42b9-480d-ac5d-e468b3b6f9f4",
@@ -535,11 +591,27 @@
             }
         },
         {
+            "Key": "e9b0b33d-ee77-474e-9b5d-bd459b9bafa1",
+            "Value": {
+                "id": "f33c4f50-17d7-4a40-922d-0a931b14c1ab",
+                "resourcePath": "sprites\\spr_woodchest\\spr_woodchest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e9f22f61-28ec-40d4-b35a-baad93b43a3f",
             "Value": {
                 "id": "60523fdc-7be8-42dd-967e-9fba84dd62fc",
                 "resourcePath": "scripts\/get_input\/get_input.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f30116e2-9d31-41ab-a194-f03065788ba1",
+            "Value": {
+                "id": "b2fe7f61-8a55-4c68-b8e7-434af47de24c",
+                "resourcePath": "sprites\\spr_spinning_coin\\spr_spinning_coin.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
