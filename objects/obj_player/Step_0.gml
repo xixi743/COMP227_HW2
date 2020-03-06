@@ -1,6 +1,7 @@
 /// @description Step Events
 
-switch (state) {
+if has_control {
+	switch (state) {
 	case "move":
 	#region Move State
 		#region Horizontal Movement
@@ -112,3 +113,5 @@ switch (state) {
 }
 
 #endregion
+
+}

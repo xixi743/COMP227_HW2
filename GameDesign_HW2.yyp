@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "90f8968a-a6f9-4754-b312-9996b07b6af0",
+            "Value": {
+                "id": "28c0f7b9-a1ae-493c-aec3-cb13fdaae6ef",
+                "resourcePath": "views\\90f8968a-a6f9-4754-b312-9996b07b6af0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "5d1f710e-1c9b-4b8d-bd08-503dbbe7ef13",
@@ -404,6 +412,14 @@
                 "id": "7ef44f1a-fd52-4671-a887-6b133a27cf93",
                 "resourcePath": "sprites\/spr_red_skull\/spr_red_skull.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9dec3f6a-5fc7-420c-9cbc-881b3e0ca89a",
+            "Value": {
+                "id": "39cec74f-a762-45d0-9641-8004ad0f46ec",
+                "resourcePath": "objects\\obj_chest\\obj_chest.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -676,6 +692,14 @@
                 "id": "7e3070c2-8cca-44ec-93a9-5193a30a028d",
                 "resourcePath": "views\/fa8cc9d0-a19a-468c-8cd7-11df08d6ef0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fd9d61fe-270c-49ec-ab61-f8eeda53c59e",
+            "Value": {
+                "id": "3686021f-387c-4a86-b269-a3953a38f409",
+                "resourcePath": "sounds\\snd_eccothedolphin_segagenesis\\snd_eccothedolphin_segagenesis.yy",
+                "resourceType": "GMSound"
             }
         },
         {

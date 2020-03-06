@@ -1,6 +1,15 @@
 /// @description Ghost Behaviors
 
 switch(state) {
+	case "exit chest":
+	#region Exit Chest State
+		y -= vspeed_;
+		vspeed_ = lerp(vspeed_, 0, 0.05);
+		if vspeed_ <= 0 {
+			state = "wait"
+		}
+	#endregion
+	
 	case "wait":
 	#region Wait State
 		// in this state, the ghost does nothing besides wait

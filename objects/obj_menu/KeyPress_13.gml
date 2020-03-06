@@ -1,7 +1,7 @@
 switch(menu_index) {
 	
 	case 0:
-		room_goto(rm_1);
+		room_goto_next();
 		break;
 		
 	case 1:

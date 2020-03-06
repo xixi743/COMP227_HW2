@@ -1,5 +1,7 @@
 /// @description Insert description here
 
+has_control = true;
+
 // Finite State Machine
 state = "move";
 
