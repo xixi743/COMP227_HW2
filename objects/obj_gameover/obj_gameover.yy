@@ -1,28 +1,48 @@
 {
-    "id": "e11c5357-c421-4306-9574-03637b2a5d45",
+    "id": "4c102cdb-7b19-4bcd-a1c7-2282d04b5194",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemies",
+    "name": "obj_gameover",
     "eventList": [
         {
-            "id": "370d391e-69ee-4c58-ab04-6d8caa1266aa",
+            "id": "7f576152-7aac-4deb-a5db-34cf5b41df3c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "e11c5357-c421-4306-9574-03637b2a5d45"
+            "m_owner": "4c102cdb-7b19-4bcd-a1c7-2282d04b5194"
         },
         {
-            "id": "806a1e5f-94ff-47aa-a5fc-9dbd86d4fd72",
+            "id": "be20caf6-d7dd-4df2-8a27-d4dfcbe6c162",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 2,
+            "enumb": 0,
             "eventtype": 3,
-            "m_owner": "e11c5357-c421-4306-9574-03637b2a5d45"
+            "m_owner": "4c102cdb-7b19-4bcd-a1c7-2282d04b5194"
+        },
+        {
+            "id": "435ff48e-73fb-4663-8189-56a9c5f3f9a5",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "4c102cdb-7b19-4bcd-a1c7-2282d04b5194"
+        },
+        {
+            "id": "8ed7bed0-96ab-4d76-b567-40e329b6abde",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 13,
+            "eventtype": 9,
+            "m_owner": "4c102cdb-7b19-4bcd-a1c7-2282d04b5194"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

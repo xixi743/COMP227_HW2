@@ -115,3 +115,9 @@ if has_control {
 #endregion
 
 }
+
+if global.points <= 0 
+	{
+		room_goto(rm_gameover);
+	}
+	

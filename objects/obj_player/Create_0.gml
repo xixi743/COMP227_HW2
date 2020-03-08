@@ -2,9 +2,11 @@
 
 has_control = true;
 
+global.points = 3;
+
 // Finite State Machine
 state = "move";
-
+ 
 // Dependencies
 input = instance_create_layer(0, 0, "Instances", obj_input);
 	// giving us access to our input object

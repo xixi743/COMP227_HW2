@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "4c102cdb-7b19-4bcd-a1c7-2282d04b5194",
+            "Value": {
+                "id": "a50f8818-539a-4da3-9c37-d5908dff90b8",
+                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5109c26a-bd46-4b07-9a43-a7012fe481b0",
             "Value": {
                 "id": "56f1b35f-2eb4-41da-8dab-49b47da7a42e",
@@ -212,6 +220,14 @@
                 "id": "86529ada-4543-4f70-a45b-8a9d5ffe269d",
                 "resourcePath": "sprites\/spr_pinkman_hit\/spr_pinkman_hit.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "551d4b09-b9be-4672-9b3b-89df2037e80d",
+            "Value": {
+                "id": "2dd035cc-af52-4f67-8ca4-c32d0c25af00",
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
