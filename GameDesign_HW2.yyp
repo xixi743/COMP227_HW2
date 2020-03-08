@@ -175,6 +175,17 @@
             }
         },
         {
+<<<<<<< Updated upstream
+=======
+            "Key": "4c102cdb-7b19-4bcd-a1c7-2282d04b5194",
+            "Value": {
+                "id": "a50f8818-539a-4da3-9c37-d5908dff90b8",
+                "resourcePath": "objects\/obj_gameover\/obj_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+>>>>>>> Stashed changes
             "Key": "5109c26a-bd46-4b07-9a43-a7012fe481b0",
             "Value": {
                 "id": "56f1b35f-2eb4-41da-8dab-49b47da7a42e",
@@ -215,6 +226,17 @@
             }
         },
         {
+<<<<<<< Updated upstream
+=======
+            "Key": "551d4b09-b9be-4672-9b3b-89df2037e80d",
+            "Value": {
+                "id": "2dd035cc-af52-4f67-8ca4-c32d0c25af00",
+                "resourcePath": "rooms\/rm_gameover\/rm_gameover.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+>>>>>>> Stashed changes
             "Key": "562aaf9f-dd7e-4f34-882e-11e93cbd3123",
             "Value": {
                 "id": "165a52ed-89ca-4c07-9239-c6223852ede4",
@@ -271,6 +293,17 @@
             }
         },
         {
+<<<<<<< Updated upstream
+=======
+            "Key": "7026c8b2-90fe-471a-b6c6-100095cae463",
+            "Value": {
+                "id": "cdcf3065-7817-4a1d-90a7-02c505a53744",
+                "resourcePath": "objects\/obj_bat\/obj_bat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+>>>>>>> Stashed changes
             "Key": "709238aa-1c8b-42b7-85cb-bcff7f11bbf0",
             "Value": {
                 "id": "27428e25-685e-4586-b620-67a615b69fc3",
@@ -687,6 +720,25 @@
             }
         },
         {
+<<<<<<< Updated upstream
+=======
+            "Key": "ecc40d72-e625-4936-a9de-c93b3edcade1",
+            "Value": {
+                "id": "0a2b4242-3ebe-495c-a06b-3a4dfff55e26",
+                "resourcePath": "objects\/obj_hmoveblock\/obj_hmoveblock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ed68133a-58a6-4950-8ba8-4b94c5806345",
+            "Value": {
+                "id": "66399c48-7a9a-4c71-a4ce-00ad045d5430",
+                "resourcePath": "objects\/obj_vmoveblock\/obj_vmoveblock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+>>>>>>> Stashed changes
             "Key": "ef26b57a-9852-4685-a372-e3cf85172c8f",
             "Value": {
                 "id": "d9656b64-4cf0-4afc-8bd5-57d57fc71149",
@@ -719,6 +771,7 @@
             }
         },
         {
+<<<<<<< Updated upstream
             "Key": "f9ea451a-17a7-43cd-97fd-5027b760dfb6",
             "Value": {
                 "id": "5215427a-62ca-4773-9d25-77b160b84c7f",
@@ -727,6 +780,8 @@
             }
         },
         {
+=======
+>>>>>>> Stashed changes
             "Key": "fa8cc9d0-a19a-468c-8cd7-11df08d6ef0e",
             "Value": {
                 "id": "7e3070c2-8cca-44ec-93a9-5193a30a028d",

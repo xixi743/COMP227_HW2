@@ -25,7 +25,11 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+<<<<<<< Updated upstream
 {"name": "inst_257035C0","id": "81d4f5aa-ef27-4cfa-aa22-f29cc2e3a082","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_257035C0","objId": "ff2735f9-d39d-4073-8fef-e27234db4feb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 768,"y": 416}
+=======
+{"name": "inst_257035C0","id": "81d4f5aa-ef27-4cfa-aa22-f29cc2e3a082","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_257035C0","objId": "ff2735f9-d39d-4073-8fef-e27234db4feb","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 288,"y": 416}
+>>>>>>> Stashed changes
             ],
             "layers": [
 
