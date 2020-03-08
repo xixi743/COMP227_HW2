@@ -42,7 +42,7 @@
             "Key": "04c3ef9c-90ee-47af-87d7-020efa0cfd58",
             "Value": {
                 "id": "592b3570-c430-4133-83ed-33cf98a3db4f",
-                "resourcePath": "rooms\\rm_chest\\rm_chest.yy",
+                "resourcePath": "rooms\/rm_chest\/rm_chest.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -50,7 +50,7 @@
             "Key": "07f9aa1c-ac71-41df-85aa-146c38e13d7f",
             "Value": {
                 "id": "d8a08580-ef1b-4e53-9c50-d8b905494e43",
-                "resourcePath": "sprites\\spr_silverchest\\spr_silverchest.yy",
+                "resourcePath": "sprites\/spr_silverchest\/spr_silverchest.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "11fb316a-2804-48b6-b32c-fdf13870289e",
             "Value": {
                 "id": "d7bca4a0-d73e-4ec2-b356-0bfa7a0087a9",
-                "resourcePath": "rooms\\rm_2\\rm_2.yy",
+                "resourcePath": "rooms\/rm_2\/rm_2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -106,7 +106,7 @@
             "Key": "13d2a5b7-a379-455a-89d3-2d92d5062d64",
             "Value": {
                 "id": "c0d13160-4478-412d-ad51-07b7987a1748",
-                "resourcePath": "sprites\\spr_key\\spr_key.yy",
+                "resourcePath": "sprites\/spr_key\/spr_key.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -122,7 +122,7 @@
             "Key": "2c18e8be-9f31-4819-8774-26c98ac8651e",
             "Value": {
                 "id": "6eccd5df-bd6c-41ca-979b-1e8b2fe1f71b",
-                "resourcePath": "sprites\\spr_goldchest\\spr_goldchest.yy",
+                "resourcePath": "sprites\/spr_goldchest\/spr_goldchest.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "3ef29d91-3b7e-4e5e-af7d-2f9af8d79431",
             "Value": {
                 "id": "5dd23507-c739-4e65-ae84-a295eea84891",
-                "resourcePath": "fonts\\fnt_menu\\fnt_menu.yy",
+                "resourcePath": "fonts\/fnt_menu\/fnt_menu.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -170,16 +170,8 @@
             "Key": "463b7928-31d8-4298-8329-ddd260b1753a",
             "Value": {
                 "id": "a4b9612b-224b-4223-b6d2-e45c38dea98f",
-                "resourcePath": "fonts\\fnt_title\\fnt_title.yy",
+                "resourcePath": "fonts\/fnt_title\/fnt_title.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "4c102cdb-7b19-4bcd-a1c7-2282d04b5194",
-            "Value": {
-                "id": "a50f8818-539a-4da3-9c37-d5908dff90b8",
-                "resourcePath": "objects\\obj_gameover\\obj_gameover.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -223,18 +215,10 @@
             }
         },
         {
-            "Key": "551d4b09-b9be-4672-9b3b-89df2037e80d",
-            "Value": {
-                "id": "2dd035cc-af52-4f67-8ca4-c32d0c25af00",
-                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "562aaf9f-dd7e-4f34-882e-11e93cbd3123",
             "Value": {
                 "id": "165a52ed-89ca-4c07-9239-c6223852ede4",
-                "resourcePath": "objects\\obj_nextroom\\obj_nextroom.yy",
+                "resourcePath": "objects\/obj_nextroom\/obj_nextroom.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -370,7 +354,7 @@
             "Key": "7e9490eb-22e2-4ce3-95c2-5676fc08cdb3",
             "Value": {
                 "id": "42f99c76-75a0-4c64-a474-044a6000ec6e",
-                "resourcePath": "sprites\\spr_spinning_coin_sparkle\\spr_spinning_coin_sparkle.yy",
+                "resourcePath": "sprites\/spr_spinning_coin_sparkle\/spr_spinning_coin_sparkle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -410,7 +394,7 @@
             "Key": "8de34780-22ce-4f62-b5d9-c16079510d4e",
             "Value": {
                 "id": "169257ac-199c-4b52-8616-12367f281f2a",
-                "resourcePath": "rooms\\rm_1\\rm_1.yy",
+                "resourcePath": "rooms\/rm_1\/rm_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -418,7 +402,7 @@
             "Key": "90f8968a-a6f9-4754-b312-9996b07b6af0",
             "Value": {
                 "id": "28c0f7b9-a1ae-493c-aec3-cb13fdaae6ef",
-                "resourcePath": "views\\90f8968a-a6f9-4754-b312-9996b07b6af0.yy",
+                "resourcePath": "views\/90f8968a-a6f9-4754-b312-9996b07b6af0.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -442,7 +426,7 @@
             "Key": "9dec3f6a-5fc7-420c-9cbc-881b3e0ca89a",
             "Value": {
                 "id": "39cec74f-a762-45d0-9641-8004ad0f46ec",
-                "resourcePath": "objects\\obj_chest\\obj_chest.yy",
+                "resourcePath": "objects\/obj_chest\/obj_chest.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -450,7 +434,7 @@
             "Key": "a044f144-8820-4ec3-aa8c-16df804f555b",
             "Value": {
                 "id": "3436bd6e-0e6d-4f19-a31b-114183ebb977",
-                "resourcePath": "fonts\\fnt_dialogue\\fnt_dialogue.yy",
+                "resourcePath": "fonts\/fnt_dialogue\/fnt_dialogue.yy",
                 "resourceType": "GMFont"
             }
         },
@@ -538,7 +522,7 @@
             "Key": "b884d771-5f9d-4d62-bd5e-e38985d595bc",
             "Value": {
                 "id": "07089b22-b129-462c-a96f-7e4b84fc1595",
-                "resourcePath": "sounds\\snd_music\\snd_music.yy",
+                "resourcePath": "sounds\/snd_music\/snd_music.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -554,7 +538,7 @@
             "Key": "bd7bbcd2-8d52-4054-b6cd-b9f028fd6924",
             "Value": {
                 "id": "002f0012-637c-4d0b-b9e7-e628c992d62a",
-                "resourcePath": "sprites\\spr_nextroom\\spr_nextroom.yy",
+                "resourcePath": "sprites\/spr_nextroom\/spr_nextroom.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -594,7 +578,7 @@
             "Key": "d4e6aff1-19c9-4343-a261-285a9a6f5952",
             "Value": {
                 "id": "87e21b8b-7f02-486d-afc5-e0e490aa306a",
-                "resourcePath": "sounds\\snd_menu\\snd_menu.yy",
+                "resourcePath": "sounds\/snd_menu\/snd_menu.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -602,7 +586,7 @@
             "Key": "d524dde6-02d8-4188-ba51-44d533cdba42",
             "Value": {
                 "id": "3fe7bedb-a123-4d51-b09d-447511b223e6",
-                "resourcePath": "sprites\\spr_goldchest_withlock\\spr_goldchest_withlock.yy",
+                "resourcePath": "sprites\/spr_goldchest_withlock\/spr_goldchest_withlock.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -610,7 +594,7 @@
             "Key": "d787595a-0408-48b5-a1cc-fdd954655e0b",
             "Value": {
                 "id": "a33f7ee6-4e40-4af7-855d-655e82fdb7a6",
-                "resourcePath": "rooms\\rm_menu\\rm_menu.yy",
+                "resourcePath": "rooms\/rm_menu\/rm_menu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -658,7 +642,7 @@
             "Key": "e2f5698a-2bb4-4e19-8624-0d3e1d33cced",
             "Value": {
                 "id": "074682b3-8d5a-48ca-8ebd-83a4a87473e0",
-                "resourcePath": "sprites\\spr_bonechest\\spr_bonechest.yy",
+                "resourcePath": "sprites\/spr_bonechest\/spr_bonechest.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -690,7 +674,7 @@
             "Key": "e9b0b33d-ee77-474e-9b5d-bd459b9bafa1",
             "Value": {
                 "id": "f33c4f50-17d7-4a40-922d-0a931b14c1ab",
-                "resourcePath": "sprites\\spr_woodchest\\spr_woodchest.yy",
+                "resourcePath": "sprites\/spr_woodchest\/spr_woodchest.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -706,7 +690,7 @@
             "Key": "ef26b57a-9852-4685-a372-e3cf85172c8f",
             "Value": {
                 "id": "d9656b64-4cf0-4afc-8bd5-57d57fc71149",
-                "resourcePath": "objects\\obj_dialogue\\obj_dialogue.yy",
+                "resourcePath": "objects\/obj_dialogue\/obj_dialogue.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -714,7 +698,7 @@
             "Key": "f30116e2-9d31-41ab-a194-f03065788ba1",
             "Value": {
                 "id": "b2fe7f61-8a55-4c68-b8e7-434af47de24c",
-                "resourcePath": "sprites\\spr_spinning_coin\\spr_spinning_coin.yy",
+                "resourcePath": "sprites\/spr_spinning_coin\/spr_spinning_coin.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -735,6 +719,14 @@
             }
         },
         {
+            "Key": "f9ea451a-17a7-43cd-97fd-5027b760dfb6",
+            "Value": {
+                "id": "5215427a-62ca-4773-9d25-77b160b84c7f",
+                "resourcePath": "objects\/obj_bat\/obj_bat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fa8cc9d0-a19a-468c-8cd7-11df08d6ef0e",
             "Value": {
                 "id": "7e3070c2-8cca-44ec-93a9-5193a30a028d",
@@ -746,7 +738,7 @@
             "Key": "fd9d61fe-270c-49ec-ab61-f8eeda53c59e",
             "Value": {
                 "id": "3686021f-387c-4a86-b269-a3953a38f409",
-                "resourcePath": "sounds\\snd_eccothedolphin_segagenesis\\snd_eccothedolphin_segagenesis.yy",
+                "resourcePath": "sounds\/snd_eccothedolphin_segagenesis\/snd_eccothedolphin_segagenesis.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -762,7 +754,7 @@
             "Key": "ff2735f9-d39d-4073-8fef-e27234db4feb",
             "Value": {
                 "id": "30882cc3-8f1f-48c8-91c3-fc75d457fae9",
-                "resourcePath": "objects\\obj_menu\\obj_menu.yy",
+                "resourcePath": "objects\/obj_menu\/obj_menu.yy",
                 "resourceType": "GMObject"
             }
         }
