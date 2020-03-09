@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "21ea00a1-08a1-4d70-90f2-97fed712cc82",
+            "Value": {
+                "id": "b69bec9f-9911-4648-8c49-27f385a33772",
+                "resourcePath": "objects\\obj_movingBlock\\obj_movingBlock.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2c18e8be-9f31-4819-8774-26c98ac8651e",
             "Value": {
                 "id": "6eccd5df-bd6c-41ca-979b-1e8b2fe1f71b",
@@ -172,6 +180,14 @@
                 "id": "a4b9612b-224b-4223-b6d2-e45c38dea98f",
                 "resourcePath": "fonts\\fnt_title\\fnt_title.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "49133161-02f8-456b-89fd-e99f9b906d72",
+            "Value": {
+                "id": "3b8313c6-4964-4067-b270-208677480582",
+                "resourcePath": "sprites\\spr_spike\\spr_spike.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,6 +279,14 @@
             }
         },
         {
+            "Key": "5f9ac008-0ee1-4359-af6f-511636f6daa1",
+            "Value": {
+                "id": "92f019be-c469-4b93-adc9-b0c00d91f314",
+                "resourcePath": "sprites\\spr_exit\\spr_exit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "60a42635-8886-4040-8055-3dd9a688bef6",
             "Value": {
                 "id": "c70b4b29-0369-45d7-a2de-a2336be68935",
@@ -284,6 +308,14 @@
                 "id": "f47938f8-de3a-4ab6-9ed4-dbc6d3d158de",
                 "resourcePath": "sprites\/spr_yellow_skull\/spr_yellow_skull.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6b9ec65c-8ed5-40b2-9fba-74a06bef33c3",
+            "Value": {
+                "id": "4e329356-007f-42be-97f1-061a245c82d0",
+                "resourcePath": "objects\\obj_spike\\obj_spike.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -404,6 +436,14 @@
                 "id": "ec8de08d-5c62-4938-83be-f71c1a50d1fd",
                 "resourcePath": "sprites\/spr_ninjafrog_fall\/spr_ninjafrog_fall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85cc301f-236f-4cc2-933d-0a2febe56d5e",
+            "Value": {
+                "id": "a77d547a-ee92-4681-abcc-dfc361ab9a03",
+                "resourcePath": "rooms\\rm_hector\\rm_hector.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -740,6 +780,14 @@
                 "id": "7e3070c2-8cca-44ec-93a9-5193a30a028d",
                 "resourcePath": "views\/fa8cc9d0-a19a-468c-8cd7-11df08d6ef0e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb9cf403-8fdb-41e0-b809-23b24f051921",
+            "Value": {
+                "id": "f44577f0-7ed1-4ad1-93db-55c46e49a6ee",
+                "resourcePath": "objects\\obj_exit\\obj_exit.yy",
+                "resourceType": "GMObject"
             }
         },
         {

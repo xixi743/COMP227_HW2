@@ -5,6 +5,7 @@ key_left = keyboard_check(vk_left);
 //attack = keyboard_check_pressed(vk_up);
 key_jump = keyboard_check_pressed(vk_space);
 key_jump_held = keyboard_check(vk_space);
+key_down = keyboard_check(vk_down);
 // if don't want continuous attacking here, change to keyboard_check_pressed
 
 // Map the keys
